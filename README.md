@@ -1,3 +1,6 @@
+## Notes
+The branch vuex-mastery contains the codes until and including L3. Other codes are on their respective branches.
+
 # real-world-vue
 
 ## Project setup
